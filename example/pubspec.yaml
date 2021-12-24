@@ -6,7 +6,7 @@ environment:
   flutter: ">=2.2.0"
 
 dependencies:
-  video_player_web:
+  yc_video_player_web:
     path: ../
   flutter:
     sdk: flutter

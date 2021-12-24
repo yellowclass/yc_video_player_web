@@ -5,7 +5,7 @@
 // ignore_for_file: directives_ordering
 // ignore_for_file: lines_longer_than_80_chars
 
-import 'package:video_player_web/video_player_web.dart';
+import 'package:yc_video_player_web/video_player_web.dart';
 
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 

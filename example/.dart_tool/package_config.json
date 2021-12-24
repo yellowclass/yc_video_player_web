@@ -206,18 +206,6 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "video_player_platform_interface",
-      "rootUri": "file:///Users/shivamkumar/Documents/SDK/flutter/.pub-cache/git/yc_player_platform_interface-8f3b5978bc5337bc27d6c352a223762fa85873ac/",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "video_player_web",
-      "rootUri": "../../",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "vm_service",
       "rootUri": "file:///Users/shivamkumar/Documents/SDK/flutter/.pub-cache/hosted/pub.dartlang.org/vm_service-7.3.0",
       "packageUri": "lib/",
@@ -230,13 +218,25 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "yc_video_player_platform_interface",
+      "rootUri": "file:///Users/shivamkumar/Documents/SDK/flutter/.pub-cache/git/yc_player_platform_interface-11dad40cfb927df527a3b7ae8dec5413052c1a8b/",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "yc_video_player_web",
+      "rootUri": "../../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "video_player_for_web_integration_tests",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-12-24T10:47:16.453625Z",
+  "generated": "2021-12-24T11:10:08.556103Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }

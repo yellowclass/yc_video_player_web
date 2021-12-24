@@ -225,22 +225,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.1"
-  video_player_platform_interface:
-    dependency: transitive
-    description:
-      path: "."
-      ref: master
-      resolved-ref: "8f3b5978bc5337bc27d6c352a223762fa85873ac"
-      url: "git://github.com/kshivam1177/yc_player_platform_interface.git"
-    source: git
-    version: "5.0.0"
-  video_player_web:
-    dependency: "direct main"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "2.0.5"
   vm_service:
     dependency: transitive
     description:
@@ -255,6 +239,22 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.0"
+  yc_video_player_platform_interface:
+    dependency: transitive
+    description:
+      path: "."
+      ref: master
+      resolved-ref: "11dad40cfb927df527a3b7ae8dec5413052c1a8b"
+      url: "git://github.com/kshivam1177/yc_player_platform_interface.git"
+    source: git
+    version: "5.0.0"
+  yc_video_player_web:
+    dependency: "direct main"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "2.0.5"
 sdks:
   dart: ">=2.14.0 <3.0.0"
   flutter: ">=2.2.0"
