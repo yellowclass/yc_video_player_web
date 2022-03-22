@@ -27,7 +27,7 @@ dependencies:
 
   yc_video_player_platform_interface:
     git:
-      url: git://github.com/kshivam1177/yc_player_platform_interface.git
+      url: https://github.com/kshivam1177/yc_player_platform_interface
       ref: master
   #      version: ">=4.2.0 <6.0.0"
 
