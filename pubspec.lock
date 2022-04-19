@@ -79,6 +79,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.12.11"
+  material_color_utilities:
+    dependency: transitive
+    description:
+      name: material_color_utilities
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.3"
   meta:
     dependency: "direct main"
     description:
@@ -106,7 +113,7 @@ packages:
       name: plugin_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.2"
+    version: "2.1.2"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -153,7 +160,7 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.4.3"
+    version: "0.4.8"
   typed_data:
     dependency: transitive
     description:
@@ -168,13 +175,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.1"
-  video_player_platform_interface:
+  yc_video_player_platform_interface:
     dependency: "direct main"
     description:
       path: "."
-      ref: master
-      resolved-ref: "8f3b5978bc5337bc27d6c352a223762fa85873ac"
-      url: "git://github.com/kshivam1177/yc_player_platform_interface.git"
+      ref: dev
+      resolved-ref: dda038e0c3fad0b0c67c6eca4a400b003cff2ef6
+      url: "https://github.com/yellowclass/yc_player_platform_interface"
     source: git
     version: "5.0.0"
 sdks:
